@@ -1,5 +1,3 @@
-
-
 services:
   react-app:
     image: react-app:1
